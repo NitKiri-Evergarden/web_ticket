@@ -1,3 +1,10 @@
+//  Alunos: André Alisson Chalegre de Lima - 01854549
+//          Anna Katarina de Aguiar Moura - 01793796
+//          Amanda Melo Barros Madureira Ferreira - 01782957
+//          Pedro Augusto Santos Silva - 01535001
+//          Rayssa Monalisa Silva de Assis - 01821686
+
+
 // App.js - Ponto de entrada principal para o aplicativo React
 import React, { useState, useEffect } from 'react';
 import './App.css';
